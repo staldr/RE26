@@ -1,6 +1,6 @@
 {
     "application": {
-        "title": "Requirements Engineering Friend Tracker (FS2026)",
+        "title": "STLR Friend Tracker (FS26)",
         "formList": [
             {
                 "id": "FriendForm",
