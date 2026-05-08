@@ -1,6 +1,6 @@
 {
     "application": {
-        "title": "STLR Friend Tracker (FS26)",
+        "title": "STLR Friends Tracker",
         "formList": [
             {
                 "id": "FriendForm",
